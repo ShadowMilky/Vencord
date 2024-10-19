@@ -579,13 +579,13 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "RamziAH",
         id: 1279957227612147747n,
     },
-    Isaac: {
-        name: "Isaac-zsh",
-        id: 407527870110629888n,
-    },
     Basil: {
         name: "Basil",
         id: 0n,
+    },
+    Isaac: {
+        name: "Isaac-zsh",
+        id: 407527870110629888n,
     },
 } satisfies Record<string, Dev>);
 
