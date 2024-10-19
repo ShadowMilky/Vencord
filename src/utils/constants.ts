@@ -583,6 +583,10 @@ export const Devs = /* #__PURE__*/ Object.freeze({
         name: "Isaac-zsh",
         id: 407527870110629888n,
     },
+    Basil: {
+        name: "Basil",
+        id: 0n,
+    },
 } satisfies Record<string, Dev>);
 
 // iife so #__PURE__ works correctly
